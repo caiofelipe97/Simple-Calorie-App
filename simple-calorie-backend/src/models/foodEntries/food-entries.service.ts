@@ -160,6 +160,9 @@ export class FoodEntriesService {
       _sum: {
         calories: true,
       },
+      orderBy: {
+        day: 'desc',
+      },
     });
   }
 

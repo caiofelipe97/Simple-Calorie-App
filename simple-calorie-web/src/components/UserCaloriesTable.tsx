@@ -15,7 +15,7 @@ export default function UserCaloriesTable({
         <div className="sm:flex-auto">
           <h1 className="text-xl font-semibold text-gray-900">Calories</h1>
           <p className="mt-2 text-sm text-gray-700">
-            Total calories spent per day
+            Total calories per day
           </p>
         </div>
       </div>
